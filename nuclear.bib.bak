@@ -475,6 +475,22 @@
   publisher = {Elsevier},
 }
 
+@Article{Bryce2020,
+  author = {Robert Bryce},
+  title  = {After 48 Years, Democrats Endorse Nuclear Energy In Platform},
+  year   = {2020},
+}
+
+@Article{gupta2019tracking,
+  author    = {Gupta, Kuhika and Nowlin, Matthew C and Ripberger, Joseph T and Jenkins-Smith, Hank C and Silva, Carol L},
+  journal   = {Energy Policy},
+  title     = {Tracking the nuclear ‘mood’in the United States: Introducing a long term measure of public opinion about nuclear energy using aggregate survey data},
+  year      = {2019},
+  pages     = {110888},
+  volume    = {133},
+  publisher = {Elsevier},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
