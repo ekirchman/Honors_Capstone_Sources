@@ -491,6 +491,22 @@
   publisher = {Elsevier},
 }
 
+@Article{brown2018identifying,
+  author    = {Brown, Greg and Glanz, Hunter},
+  journal   = {Applied Geography},
+  title     = {Identifying potential NIMBY and YIMBY effects in general land use planning and zoning},
+  year      = {2018},
+  pages     = {1--11},
+  volume    = {99},
+  publisher = {Elsevier},
+}
+
+@Article{cleutjens2021rural,
+  author = {Cleutjens, Imke},
+  title  = {Rural Conservatism Then and Now: How the rise of social media has influenced the degree of conservatism in rural areas of the United States},
+  year   = {2021},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
