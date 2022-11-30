@@ -442,12 +442,6 @@
   publisher={Taylor \& Francis}
 }
 
-@article{Smith2019general,
-  title={General Social Survey 2010 Cross-Section and Panel Combined},
-  author={Smith, Davis and P.V. Marsden},
-  year={2019}
-}
-
 @article{thomas2022great,
   title={Great expectations: public opinion about energy transition},
   author={Thomas, Melanee and DeCillia, Brooks and Santos, John B and Thorlakson, Lori},
@@ -525,6 +519,35 @@
   series    = {Energy, the Environment, and Public Opinion},
   lccn      = {2001034619},
   url       = {https://books.google.com/books?id=hjwKSN9t7ycC},
+}
+
+@Article{cicia2012fossil,
+  author    = {Cicia, Gianni and Cembalo, Luigi and Del Giudice, Teresa and Palladino, Andrea},
+  journal   = {Energy Policy},
+  title     = {Fossil energy versus nuclear, wind, solar and agricultural biomass: Insights from an Italian national survey},
+  year      = {2012},
+  pages     = {59--66},
+  volume    = {42},
+  publisher = {Elsevier},
+}
+
+@Article{Bisconti2022,
+  author = {Ann Bisconti},
+  title  = {Reverse NIMBY: Nuclear Power Plant Neighbors Say “Yes.”},
+  year   = {2022},
+  month  = jun,
+}
+
+@Unpublished{Bisconti2022a,
+  author = {Bisconti},
+  title  = {2206631 - SPSS final data},
+  year   = {2022},
+}
+
+@Unpublished{Gupta2022,
+  author = {Kuhika Gupta},
+  title  = {Nuke Accept Data},
+  year   = {2022},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
