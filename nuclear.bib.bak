@@ -507,6 +507,15 @@
   year   = {2021},
 }
 
+@Article{carter1976nuclear,
+  author  = {Carter, Jimmy},
+  journal = {At. Energy Law J.;(United States)},
+  title   = {Nuclear energy and world order},
+  year    = {1976},
+  number  = {2},
+  volume  = {18},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
