@@ -516,6 +516,17 @@
   volume  = {18},
 }
 
+@Book{smith2002energy,
+  author    = {Smith, E.R.A.N.},
+  publisher = {Rowman \& Littlefield Publishers},
+  title     = {Energy, the Environment, and Public Opinion},
+  year      = {2002},
+  isbn      = {9780742510265},
+  series    = {Energy, the Environment, and Public Opinion},
+  lccn      = {2001034619},
+  url       = {https://books.google.com/books?id=hjwKSN9t7ycC},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
