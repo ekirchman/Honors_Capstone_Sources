@@ -105,7 +105,7 @@
 @Misc{Bibby2021,
   author  = {Bibby, R. W.},
   month   = mar,
-  title   = {Project Canada 1985-90 Panel Study},
+  title   = {Project {C}anada 1985-90 Panel Study},
   year    = {2021},
   comment = {The Project Canada Research Program has been carried out from the University of Lethbridge. National surveys of adults 18 and over have been conducted in 1975, 1980, 1985, 1990, and 1995. Adult surveys in 2000 will complete the program. The goal has been to generate extensive information on life in Canada, with specific attention given to social issues, intergroup relations, and religion.},
   doi     = {10.17605/OSF.IO/Q5AFW},
@@ -128,7 +128,7 @@
 @Misc{Press2005,
   author = {Associated Press},
   month  = mar,
-  title  = {THE ASSOCIATED PRESS POLL CONDUCTED BY IPSOS-PUBLIC AFFAIRS RELEASE DATE: MARCH 24, 2005 PROJECT #81-5139-28},
+  title  = {THE {A}SSOCIATED {P}RESS POLL CONDUCTED BY IPSOS-PUBLIC AFFAIRS RELEASE DATE: MARCH 24, 2005 PROJECT #81-5139-28},
   year   = {2005},
   file   = {:2005-03-23 AP Topline results.pdf:PDF},
   groups = {Datasets},
@@ -138,7 +138,7 @@
 @Misc{Communications2011,
   author = {GfK Roper Public Affairs & Corporate Communications},
   month  = mar,
-  title  = {THE AP-GfK POLL March, 2011},
+  title  = {THE {AP}-{G}fK POLL March, 2011},
   year   = {2011},
   file   = {:- THE AP GfK POLL March, 2011.pdf:PDF},
   groups = {Datasets},
@@ -148,7 +148,7 @@
 @Misc{Greenberg2021,
   author = {Greenberg, A., Keating, J., & Mbaye, K.},
   month  = aug,
-  title  = {Religion and America's Role in the World},
+  title  = {Religion and {A}merica's Role in the World},
   year   = {2021},
   doi    = {10.17605/OSF.IO/X2KW7},
   file   = {:Religion and America's Role in the World.SAV:sav},
@@ -204,7 +204,7 @@
 @Article{shapiro2011public,
   author    = {Shapiro, Robert Y},
   journal   = {Public Opinion Quarterly},
-  title     = {Public opinion and American democracy},
+  title     = {Public opinion and {A}merican democracy},
   year      = {2011},
   number    = {5},
   pages     = {982--1017},
@@ -314,15 +314,15 @@
   publisher={Nature Publishing Group}
 }
 
-@article{fiore2006nuclear,
-  title={Nuclear energy and sustainability: Understanding ITER},
-  author={Fiore, Karine},
-  journal={Energy policy},
-  volume={34},
-  number={17},
-  pages={3334--3341},
-  year={2006},
-  publisher={Elsevier}
+@Article{fiore2006nuclear,
+  author    = {Fiore, Karine},
+  journal   = {Energy policy},
+  title     = {Nuclear energy and sustainability: Understanding {ITER}},
+  year      = {2006},
+  number    = {17},
+  pages     = {3334--3341},
+  volume    = {34},
+  publisher = {Elsevier},
 }
 
 		
@@ -393,14 +393,14 @@
   publisher={Sage Publications Sage CA: Thousand Oaks, CA}
 }
 
-@article{baron2020public,
-  title={Public opinion on nuclear energy and nuclear weapons: The attitudinal nexus in the United States},
-  author={Baron, Jonathon and Herzog, Stephen},
-  journal={Energy Research \& Social Science},
-  volume={68},
-  pages={101567},
-  year={2020},
-  publisher={Elsevier}
+@Article{baron2020public,
+  author    = {Baron, Jonathon and Herzog, Stephen},
+  journal   = {Energy Research \& Social Science},
+  title     = {Public opinion on nuclear energy and nuclear weapons: The attitudinal nexus in the {U}nited {S}tates},
+  year      = {2020},
+  pages     = {101567},
+  volume    = {68},
+  publisher = {Elsevier},
 }
 
 @Misc{bisconti2022,
@@ -462,7 +462,7 @@
 @Article{gustafson2020republicans,
   author    = {Gustafson, Abel and Goldberg, Matthew H and Kotcher, John E and Rosenthal, Seth A and Maibach, Edward W and Ballew, Matthew T and Leiserowitz, Anthony},
   journal   = {Energy Policy},
-  title     = {Republicans and Democrats differ in why they support renewable energy},
+  title     = {Republicans and {D}emocrats differ in why they support renewable energy},
   year      = {2020},
   pages     = {111448},
   volume    = {141},
@@ -471,14 +471,14 @@
 
 @Article{Bryce2020,
   author = {Robert Bryce},
-  title  = {After 48 Years, Democrats Endorse Nuclear Energy In Platform},
+  title  = {After 48 Years, {D}emocrats Endorse Nuclear Energy In Platform},
   year   = {2020},
 }
 
 @Article{gupta2019tracking,
-  author    = {Gupta, Kuhika and Nowlin, Matthew C and Ripberger, Joseph T and Jenkins-Smith, Hank C and Silva, Carol L},
+  author    = {Gupta, Kuhika and Nowlin, Matthew},
   journal   = {Energy Policy},
-  title     = {Tracking the nuclear 'mood’in the United States: Introducing a long term measure of public opinion about nuclear energy using aggregate survey data},
+  title     = {Tracking the nuclear 'mood’in the {U}nited {S}tates: Introducing a long term measure of public opinion about nuclear energy using aggregate survey data},
   year      = {2019},
   pages     = {110888},
   volume    = {133},
@@ -488,7 +488,7 @@
 @Article{brown2018identifying,
   author    = {Brown, Greg and Glanz, Hunter},
   journal   = {Applied Geography},
-  title     = {Identifying potential NIMBY and YIMBY effects in general land use planning and zoning},
+  title     = {Identifying potential {NIMBY} and {YIMBY} effects in general land use planning and zoning},
   year      = {2018},
   pages     = {1--11},
   volume    = {99},
@@ -497,7 +497,7 @@
 
 @Article{cleutjens2021rural,
   author = {Cleutjens, Imke},
-  title  = {Rural Conservatism Then and Now: How the rise of social media has influenced the degree of conservatism in rural areas of the United States},
+  title  = {Rural Conservatism Then and Now: How the rise of social media has influenced the degree of conservatism in rural areas of the {U}nited {S}tates},
   year   = {2021},
 }
 
@@ -524,7 +524,7 @@
 @Article{cicia2012fossil,
   author    = {Cicia, Gianni and Cembalo, Luigi and Del Giudice, Teresa and Palladino, Andrea},
   journal   = {Energy Policy},
-  title     = {Fossil energy versus nuclear, wind, solar and agricultural biomass: Insights from an Italian national survey},
+  title     = {Fossil energy versus nuclear, wind, solar and agricultural biomass: Insights from an {I}talian national survey},
   year      = {2012},
   pages     = {59--66},
   volume    = {42},
@@ -533,14 +533,14 @@
 
 @Article{Bisconti2022NIMBY,
   author = {Ann Bisconti},
-  title  = {Reverse NIMBY: Nuclear Power Plant Neighbors Say “Yes.”},
+  title  = {Reverse {NIMBY}: Nuclear Power Plant Neighbors Say “Yes.”},
   year   = {2022},
   month  = jun,
 }
 
 @Unpublished{Bisconti2022a,
   author = {Bisconti},
-  title  = {2206631 - SPSS final data},
+  title  = {2206631 - {SPSS} final data},
   year   = {2022},
 }
 
@@ -586,6 +586,17 @@
   pages     = {702--712},
   volume    = {29},
   publisher = {Wiley Online Library},
+}
+
+@Article{rothman1987elite,
+  author    = {Rothman, Stanley and Lichter, S Robert},
+  journal   = {American Political Science Review},
+  title     = {Elite ideology and risk perception in nuclear energy policy},
+  year      = {1987},
+  number    = {2},
+  pages     = {383--404},
+  volume    = {81},
+  publisher = {Cambridge University Press},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
