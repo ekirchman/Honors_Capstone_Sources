@@ -556,17 +556,6 @@
   year   = {2019},
 }
 
-@Article{kasperson1980public,
-  author    = {Kasperson, Roger E and Berk, Gerald and Pijawka, David and Sharaf, Alan B and Wood, James},
-  journal   = {Science, Technology, \& Human Values},
-  title     = {Public opposition to nuclear energy: Retrospect and prospect},
-  year      = {1980},
-  number    = {2},
-  pages     = {11--23},
-  volume    = {5},
-  publisher = {Sage Publications Sage CA: Thousand Oaks, CA},
-}
-
 @Article{ayvaci2012determining,
   author  = {Ayvaci, Hakan Sevki and Bakirci, Hasan},
   journal = {Energy Education Science and Technology Part B},
@@ -597,6 +586,17 @@
   pages     = {383--404},
   volume    = {81},
   publisher = {Cambridge University Press},
+}
+
+@Article{hasegawa2015health,
+  author    = {Hasegawa, Arifumi and Tanigawa, Koichi and Ohtsuru, Akira and Yabe, Hirooki and Maeda, Masaharu and Shigemura, Jun and Ohira, Tetsuya and Tominaga, Takako and Akashi, Makoto and Hirohashi, Nobuyuki and others},
+  journal   = {The Lancet},
+  title     = {Health effects of radiation and other health problems in the aftermath of nuclear accidents, with an emphasis on Fukushima},
+  year      = {2015},
+  number    = {9992},
+  pages     = {479--488},
+  volume    = {386},
+  publisher = {Elsevier},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
